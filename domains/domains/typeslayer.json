@@ -1,0 +1,27 @@
+{
+  "owner": {
+    "username": "ASULTayan",
+    "email": "your@email.com"
+  },
+  "record": {
+    "CNAME": "asultayan.github.io"
+  }
+}
+```
+4. Replace `your@email.com` with your real email
+5. Click **Commit changes** ✅
+
+---
+
+**Step 4 — Submit Pull Request**
+1. Click **"Contribute" → "Open pull request"**
+2. Click **"Create pull request"**
+3. Title it: `Add typeslayer.is-a.dev`
+4. Click **"Create pull request"** ✅
+
+---
+
+**Step 5 — Wait for approval**
+The is-a.dev team will review and merge it within **1–2 days**. After that your game will be live at:
+```
+https://typeslayer.is-a.dev
